@@ -1,0 +1,43 @@
+body {
+    background-color: yellowgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: teal;
+}
+
+thead {
+    background-color: tomato;
+}
+
+tbody {
+    text-align: left;
+}
+
+#tags, #attributes {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px solid black; 
+    border-collapse: collapse; 
+    width: 50%;
+    border-top: 1px solid black;
+}
+
+.code {
+    color: red;
+    background-color: aquamarine;
+}
+
+th, td {
+    padding: 10px; 
+    text-align: left;
+    border-top: 1px solid black;
+}
